@@ -5,7 +5,7 @@ redefinir.js.
 
 
 Passos para iniciar o projeto:
-
+comando: npm install   
 comando: npx expo start
 
 Abrir o projeto:
