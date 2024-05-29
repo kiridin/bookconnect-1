@@ -1,12 +1,12 @@
 import React from 'react';
 import { SafeAreaView, StyleSheet } from 'react-native';
 import ChatApp from './src/screens/athena'; 
-import RedefinirSenha from  './src/screens/redefinir';
+import EsqueciSenha from './src/screens/esqueci-senha';
 
 const App = () => {
   return (
     <SafeAreaView style={styles.container}>
-      <RedefinirSenha /> 
+      <EsqueciSenha /> 
       {/* você muda aqui dentro pro nome da função que quiser exibir  */}
     </SafeAreaView>
   );
